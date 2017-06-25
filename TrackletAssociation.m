@@ -64,5 +64,4 @@ for i=1:16
         J1(i,J)=i;
 end
 end
-end
 
