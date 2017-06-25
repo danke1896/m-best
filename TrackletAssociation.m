@@ -63,6 +63,6 @@ for i=1:16
         X_out{1,ii}=X_out1{i,J};
         J1(i,J)=i;
 end
-
+end
 end
 
